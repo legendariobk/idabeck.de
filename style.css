@@ -1,0 +1,23 @@
+.countdown {
+  color: pink;
+  font-size: 15rem;
+  margin: 0;
+  text-align: center;
+}
+
+.countdownWrapper {
+  flex-direction: column;
+  display: flex;
+  width: 100vw;
+  justify-content: center;
+  margin: auto;
+}
+
+.header {
+  color: pink;
+  text-align: center;
+}
+
+body {
+  background: darkcyan;
+}
